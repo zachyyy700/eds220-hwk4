@@ -19,7 +19,7 @@ This repository contains materials for EDS 220 Homework 4. The notebook `hwk4-ta
 
 - Fire perimeter data: Sourced from CAL FIRE hosted by California's Open Data Portal. This dataset contains information and geometries for wildfires in California.
 
-- Landsat data: Sourced from the Landsat Collection 2 Level-2 atmosperically corrected surface reflectance data, courtesy of the Landsat 8 satelliite.
+- Landsat data: Sourced from the Landsat Collection 2 Level-2 atmosperically corrected surface reflectance data, courtesy of the Landsat 8 satellite.
 
 
 ## References
